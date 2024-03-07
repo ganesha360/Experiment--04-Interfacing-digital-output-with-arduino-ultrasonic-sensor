@@ -132,7 +132,8 @@ void loop()
 ![image](https://github.com/ganesha360/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/120884552/5441196b-7e78-45e4-8b7c-9fd62c503227)
 
 ## GRAPH
-![Screenshot 2024-03-07 113034](https://github.com/ganesha360/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/120884552/f6eab39c-eefb-451b-86ca-1c3ef4639f6b)
+![image](https://github.com/ganesha360/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/120884552/f239517a-fcb2-4b28-8570-f713305767ba)
+
 
 
 
