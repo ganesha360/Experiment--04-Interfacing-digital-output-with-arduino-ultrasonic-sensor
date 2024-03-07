@@ -125,6 +125,7 @@ void loop()
 			Average error = sum/ number of readings 
  
 
+![Uploading Screenshot 2024-03-07 113054.png…]()
 
 
 
