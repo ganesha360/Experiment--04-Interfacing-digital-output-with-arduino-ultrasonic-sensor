@@ -124,8 +124,7 @@ void loop()
 			
 			Average error = sum/ number of readings 
  
-
-![Uploading Screenshot 2024-03-07 113054.png…]()
+![Screenshot 2024-03-07 113054](https://github.com/ganesha360/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/assets/120884552/0840c11a-c3d8-4620-9576-b44afaff40a7)
 
 
 
